@@ -1,0 +1,3 @@
+I made the dapp named Employee Search.
+In this he admin can add the employee details to the system and anyone can view those details by putting the id of the respective employee.
+I have put 12 employee with ids 1 to 12.
